@@ -1,0 +1,9 @@
+mcp-server
+flask
+requests
+angr
+manticore
+pyocd
+frida-tools
+unicorn
+capstone
